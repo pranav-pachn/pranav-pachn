@@ -76,8 +76,8 @@ class AIEngineer:
 ### 📊 System Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranav-pachn&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-pachn&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pranav-pachn&show_icons=true&theme=github_dark" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-pachn&layout=compact&theme=github_dark" width="350" />
 
   <br/><br/>
 
