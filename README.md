@@ -76,14 +76,13 @@ class AIEngineer:
 ### 📊 System Analytics
 
 <div align="center">
-  <table border="0">
+  <table border="0" cellspacing="0" cellpadding="0" style="width: 100%;">
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=pranav-pachn&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=pranav-pachn&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="100%" />
       </td>
-      <td width="20"></td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-pachn&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=0d1117" alt="Top Languages" width="48%" />
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-pachn&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=0d1117" alt="Top Languages" width="100%" />
       </td>
     </tr>
   </table>
