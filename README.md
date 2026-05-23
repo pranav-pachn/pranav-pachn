@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-pachn)
 [![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=flat-square&logo=vercel&logoColor=white)](https://pranav-pachn.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](pranavp2796@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pranavp2796@gmail.com)
 
 </div>
 
@@ -76,20 +76,12 @@ class AIEngineer:
 ### 📊 System Analytics
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="width: 100%;">
-    <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=pranav-pachn&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="100%" />
-      </td>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-pachn&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=0d1117" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=pranav-pachn&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-pachn&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=0d1117" width="48%" />
 
-  <br/>
+  <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranav-pachn&theme=github-dark&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranav-pachn&theme=github-dark&hide_border=true&bg_color=0d1117" width="100%" />
 </div>
 
 ---
