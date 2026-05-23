@@ -77,7 +77,7 @@ class AIEngineer:
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=pranav-pachn&theme=github-dark-blue&hide_border=true" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-pachn&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" width="350" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranav-pachn&theme=github_dark" width="350" />
 
   <br/><br/>
 
