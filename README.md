@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-pachn)
 [![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=flat-square&logo=vercel&logoColor=white)](https://pranav-pachn.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pranavp2796@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](pranavp2796@gmail.com)
 
 </div>
 
