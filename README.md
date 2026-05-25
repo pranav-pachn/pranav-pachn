@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&speed=40&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+%26+AI+Systems+Developer;Explainable+AI+Engineering;Intelligent+Decision+Platforms)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&speed=40&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+%26+AI+Systems+Developer)](https://git.io/typing-svg)
 
 <img src="assets/banner.png" width="100%" />
 
