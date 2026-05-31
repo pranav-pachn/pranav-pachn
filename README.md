@@ -34,7 +34,7 @@ Building full-stack applications with AI integrations and modern web technologie
 
 - System Design
 - NLP Applications
-- Production ML Deployment
+- Production ML Projects
 
 ---
 
