@@ -5,7 +5,9 @@
 
 ## Pranav Pachunoori
 
-**Full Stack Developer | AI Enthusiast**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=%3E+role+%3D+%5B%22Full+Stack+Developer%22%2C+%22AI+Enthusiast%22%5D" alt="Typing SVG" />
+</a>
 
 Building full-stack applications with AI integrations and modern web technologies.
 
